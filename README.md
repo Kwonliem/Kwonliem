@@ -10,4 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonliem&hide_progress=true)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kwonliem/github-readme-stats)
+[![Kwonliem's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kwonliem/github-readme-stats)
