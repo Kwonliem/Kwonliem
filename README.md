@@ -9,5 +9,3 @@
 ![Kwonliem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonliem&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonliem&hide_progress=true)
-
-[![Kwonliem's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kwonliem/github-readme-stats)
